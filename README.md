@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Panuel
 #### Web Designer & Developer
-![Web Designer & Developer](https://scontent.fdac135-1.fna.fbcdn.net/v/t39.30808-6/395620935_651967433586954_6175745364685123323_n.png?stp=dst-png_s960x960&_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=XroTKRHOXRIAX93nEpH&_nc_ht=scontent.fdac135-1.fna&oh=00_AfB8IP4KE-NAwzlWmOx2uQs4Ok3d_Gi5aMwlN5wVmrzWMw&oe=65467E90)
+![Web Designer & Developer][(https://scontent.fdac135-1.fna.fbcdn.net/v/t39.30808-6/395620935_651967433586954_6175745364685123323_n.png?stp=dst-png_s960x960&_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=XroTKRHOXRIAX93nEpH&_nc_ht=scontent.fdac135-1.fna&oh=00_AfB8IP4KE-NAwzlWmOx2uQs4Ok3d_Gi5aMwlN5wVmrzWMw&oe=65467E90)](https://scontent.fdac135-1.fna.fbcdn.net/v/t39.30808-6/398229620_652564020193962_4258441292193563091_n.png?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=7MRk8_V6rvQAX-9qas9&_nc_ht=scontent.fdac135-1.fna&oh=00_AfAvHIcgIJeJve7Yo_U8oUMXBmA1MZQ96CzIeXlfzB834A&oe=6546EF51)
 
 
 I'm a passionate web designer and developer with a focus on creating captivating online experiences. I specialize in WordPress, Shopify, and front-end development, turning ideas into pixel-perfect, functional websites.
